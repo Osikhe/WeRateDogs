@@ -3,8 +3,6 @@
 
 ![image](act_dog.jpg)
 
-Check the wrangling [here](https://github.com/Mariam-Garuba/WeRateDogs/blob/main/wrangle_act.html)
-
 ### Gathering Data
 The project gathers three pieces of data as described below:
 - Twitter archive file: This can be downloaded manually via [twitter_archive_enhanced.csv](https://d17h27t6h515a5.cloudfront.net/topher/2017/August/59a4e958_twitter-archive-enhanced/twitter-archive-enhanced.csv) and read into a pandas DataFrame.
