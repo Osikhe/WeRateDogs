@@ -53,6 +53,8 @@ _______
 _______
 
 ### Insights
+![image](engagement_data.jpg)
+
 - There is a positive correlation of 0.91 between the favorite count and retweet count variables. However, the numerator and denominator rating variables show minimal relationships.
 - Mean demoninator votes above 10 have significantly higher favorite and retweet counts.
 - Uploading more images does not ultimately lead to better engagement, as posts with 3 images express a decline in favorite and retweet counts.
